@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wXec9fDCsR4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zache\\Desktop\\ТестовоеЗ\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zache\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
